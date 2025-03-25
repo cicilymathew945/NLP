@@ -1,0 +1,1 @@
+This repository showcases a variety of NLP workflows, from preprocessing raw text data to training and evaluating transformer-based models. Each project is self-contained with clear documentation and modular code, making it easy to test, extend, or integrate into other applications. The goal is to deepen understanding of NLP techniques through hands-on experimentation.
